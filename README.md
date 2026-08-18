@@ -33,9 +33,7 @@ Permet d'ajouter des dossiers, de rechercher par nom ou par numéro de tome, et 
 
 ## 🛠 Installation
 
-### Avec Python (script)
+### Avec Windows
 
-1. **Cloner ou télécharger** le fichier `ebook_manager.py`.
-2. **Installer les dépendances** :
-   ```cmd
-   py -m pip install pillow
+1. **télécharger** le fichier `ebooks_manager.exe`.
+2. **Execute** le fichier `ebooks_manager.exe`.
