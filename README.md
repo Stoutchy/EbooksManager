@@ -35,5 +35,5 @@ Permet d'ajouter des dossiers, de rechercher par nom ou par numéro de tome, et 
 
 ### Avec Windows
 
-1. **télécharger** le fichier `ebooks_manager.exe`.
+1. **Télécharger** le fichier `ebooks_manager.exe`.
 2. **Execute** le fichier `ebooks_manager.exe`.
